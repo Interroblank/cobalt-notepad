@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cobalt Notepad</string>
+    <string-array name="test_arr_1">
+        <item>Title_1</item>
+        <item>Title_2</item>
+        <item>Title_3</item>
+    </string-array>
+    <string-array name="test_arr_2">
+        <item>Text_1</item>
+        <item>Text_2</item>
+        <item>Text_3</item>
+    </string-array>
+</resources>
